@@ -69,6 +69,6 @@ thyroid-vision-ml/
 - data/           # Ultrasound images, annotations, metadata
 - notebooks/      # Jupyter notebooks for EDA, modeling, and analysis
 - README.md       # Project overview
-- requirements.txt # Python dependencies
+- executive summary
 
 
