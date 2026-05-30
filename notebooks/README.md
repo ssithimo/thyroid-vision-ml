@@ -2,6 +2,10 @@
 
 This folder contains a single Jupyter notebook for the **Thyroid Vision ML: Thyroid Nodule Ultrasound Analysis & TI-RADS Classification** project.
 
+
+if notebook doesnt open in github click here to see it in ["nbviewer"](https://nbviewer.org/github/ssithimo/thyroid-vision-ml/blob/main/notebooks/thyroid-vision-ml.ipynb)
+
+
 ---
 
 ## 🧩 Notebook Overview
