@@ -42,6 +42,7 @@ This consolidation reflects how clinical decisions are actually made. The action
 **Models Evaluated**
 - Custom CNN architecture trained from scratch on ultrasound images
 - DenseNet121 via transfer learning with ImageNet pretrained weights
+- *RadImageNet was considered but not used because of the inconvenience of sourcing the weights and downloading and uploading them into the model.
 
 ---
 
