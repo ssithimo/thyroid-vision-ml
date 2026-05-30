@@ -4,6 +4,10 @@
 
 ---
 
+note: if notebook doesnt open in github click here to see it in [nbviewer](https://nbviewer.org/github/ssithimo/thyroid-vision-ml/blob/main/notebooks/thyroid-vision-ml.ipynb)
+
+---
+
 ## 🌟 Motivation
 
 This project started personally. Having experienced acute hyperthyroidism and with a family history of thyroid disorders, I wanted to explore how deep learning could support earlier and more accurate thyroid nodule risk stratification. Ultrasound is the standard imaging tool for evaluating thyroid nodules, and the TI-RADS scoring system guides clinical decisions about whether to monitor, biopsy, or intervene.
